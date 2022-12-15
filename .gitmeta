@@ -1,0 +1,4 @@
+chown -h 1000:1000 './pathplace'
+chmod 0664 './pathplace'
+/usr/bin/touch -hcmd "2022-12-15 17:43:40.3713455310 -0300" './pathplace'
+/usr/bin/touch -hcad "2022-12-15 17:43:49.3073971970 -0300" './pathplace'

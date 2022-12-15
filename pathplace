@@ -1,0 +1,5 @@
+echo "/1/apps/aragon/" | cut -d/ -f4
+
+echo "/1/apps/aragon/" | pathplace 3
+=
+echo "/1/apps/aragon/" | cut -d/ -f{3+1}
